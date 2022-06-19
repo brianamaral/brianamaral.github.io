@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Covid News](/pages/covid_news)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,14 +17,10 @@
 
 ---
 
-### Category Name 2
+### Education
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- Bachelors Degree, Computer Science. (2019 - 2021) [CESUPA](https://www.cesupa.br
+)
 ---
 
 
