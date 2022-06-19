@@ -2,10 +2,10 @@
 
 ---
 
-### [Webscraping covid related articles from BBC Brazil](/pages/covid_news)
+### [Webscraping covid related articles from BBC Brazil](https://github.com/brianamaral/covid-news)
 <img src="images/thumb_covid_news.png?raw=true"/>
 
-### [API ingestion to a Data Lake with Python](/pages/covid_news)
+### [API ingestion to a Data Lake with Python](https://github.com/brianamaral/users_api_ingest)
 <img src="images/thumb_api_ingest.png?raw=true"/>
 
 ---
