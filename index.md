@@ -8,7 +8,7 @@
 ### [API ingestion to a Data Lake with Python](https://github.com/brianamaral/users_api_ingest)
 <img src="images/thumb_api_ingest.png?raw=true"/>
 
-### [An healthier workflow for AWS Glue jobs](https://github.com/brianamaral/glue_cicd)
+### [An healthier workflow for AWS Glue jobs](https://github.com/brianamaral/glue-cicd)
 <img src="images/thumb_glue_workflow.png?raw=true"/>
 
 ---
