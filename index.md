@@ -2,7 +2,7 @@
 
 ---
 
-### [Covid News](/pages/covid_news)
+### [Webscraping covid related articles from BBC Brazil](/pages/covid_news)
 <img src="images/thumb_covid_news.png?raw=true"/>
 
 ---
