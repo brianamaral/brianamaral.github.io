@@ -9,8 +9,28 @@
 <img src="images/thumb_api_ingest.png?raw=true"/>
 
 ---
+## Skills
+ - Python
+ - SQL
+ - Spark
+ - Data Warehousing
+ - Data Lake Design
+ - AWS (Glue, Redshift, S3, EC2, Lambda, CodePipeline, CodeBuild, Athena, Step Functions)
+ - DBT (Data Build Tool)
+ - Snowflake
+ - Apache Airflow
+ - Airbyte
+ - Docker
+ - CI/CD
+ - Terraform
+ - Git and Github
+ - Github Actions
+ - Pentaho Data Integration
+ - Streamsets
 
-### Education
+---
+
+## Education
 
 - Bachelors Degree, Computer Science. (2019 - 2021) [CESUPA](https://www.cesupa.br
 )
